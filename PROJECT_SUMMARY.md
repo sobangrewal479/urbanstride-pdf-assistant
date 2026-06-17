@@ -53,3 +53,9 @@ urbanstride_pdf_assistant/
     ├── test_pdf_loader.py
     ├── test_retriever.py
     └── test_text_extraction.py
+
+    ## GitHub Repository
+
+Project link:
+
+https://github.com/sobangrewal479/urbanstride-pdf-assistant

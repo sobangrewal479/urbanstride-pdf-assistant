@@ -50,3 +50,9 @@ These files are stored in:
 
 ```text
 data/pdfs/
+
+## GitHub Repository
+
+Project link:
+
+https://github.com/sobangrewal479/urbanstride-pdf-assistant
