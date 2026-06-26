@@ -8,6 +8,14 @@ UrbanStride PDF Product Assistant is a PDF-based AI Q&A chatbot for a mock ecomm
 
 The goal is to help customers and support staff ask questions about product catalog, shipping, returns, warranty, sizing, and shoe care using only the provided PDF documents.
 
+## Demo Video
+
+Watch the demo here: https://youtu.be/iNI37PtAkLE
+
+This demo shows the PDF Q&A chatbot answering questions from uploaded PDF documents. It demonstrates how the assistant uses provided document content, includes source-based answers, and avoids guessing when a question is outside the uploaded PDFs.
+
+---
+
 ## Project Type
 PDF Q&A Chatbot  
 AI document assistant  
