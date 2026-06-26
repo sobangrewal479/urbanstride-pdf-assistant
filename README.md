@@ -10,7 +10,7 @@ The goal is to help customers and support staff ask questions about product cata
 
 ## Demo Video
 
-Watch the demo here: https://youtu.be/iNI37PtAkLE
+Watch the demo here: https://youtu.be/-OO_KyrHqq0
 
 This demo shows the PDF Q&A chatbot answering questions from uploaded PDF documents. It demonstrates how the assistant uses provided document content, includes source-based answers, and avoids guessing when a question is outside the uploaded PDFs.
 
